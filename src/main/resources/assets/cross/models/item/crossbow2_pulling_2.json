@@ -1,0 +1,7 @@
+{
+    "parent": "cross:item/crossbow",
+ 
+    "textures": {
+        "layer0": "cross:items/crossbow_arrow"
+       }
+}

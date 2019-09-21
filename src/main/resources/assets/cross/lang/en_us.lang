@@ -1,0 +1,7 @@
+﻿//items 
+item.crossbow.name=crossbow
+item.trident.name=Trident
+
+entity.panda.name=Panda
+entity.ravanger.name=Ravanger
+entity.fly.name=Bee
